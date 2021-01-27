@@ -1,0 +1,27 @@
+{
+  "allExecutables" : [
+    "swiftshield"
+  ],
+  "builtTestProducts" : [
+    {
+      "packageName" : "swiftshield",
+      "productName" : "swiftshieldPackageTests",
+      "testBinary" : "\/Users\/rochab\/Desktop\/Other\/swiftshield\/.build\/x86_64-apple-macosx\/release\/swiftshieldPackageTests.xctest\/Contents\/MacOS\/swiftshieldPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "rootExecutables" : [
+    "swiftshield"
+  ],
+  "swiftTargetMap" : {
+    "C.ArgumentParser-release.module" : "ArgumentParser",
+    "C.swiftshield-release.module" : "swiftshield",
+    "C.SwiftShieldCore-release.module" : "SwiftShieldCore",
+    "C.SwiftShieldTests-release.module" : "SwiftShieldTests"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}
